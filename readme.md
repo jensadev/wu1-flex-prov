@@ -12,6 +12,8 @@ För varje steg så dokumenterar du dina ändringar i en eller flera commits. Du
 
 Gör en eller flera commits med ändringar per steg! Minst en commit ska göras för varje steg.
 
+Innan du kör igång så går du in på Extensions i VSCode och väljer att disabla GitHub Copilot.
+
 ### Steg 1 - semantiska taggar
 
 Identifiera vilka taggar som passar de olika delarna. Vill du ändra på någonting. Skriv en kort kommentar till varför du tror att taggarna är valda.
